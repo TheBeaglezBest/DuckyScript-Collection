@@ -1,0 +1,12 @@
+DELAY 1000
+REM Prevent device shutdown
+REM Loop indefinitely
+:loop
+REM Press and hold the power button
+GUI r
+DELAY 1000
+REM Release the power button
+GUI r
+DELAY 1000
+REM Repeat the loop
+GOTO loop
