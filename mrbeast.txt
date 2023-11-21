@@ -1,0 +1,450 @@
+DELAY 5000
+GUI r
+DELAY 500
+STRING "chrome"
+ENTER
+DELAY 1000
+STRING "https://www.youtube.com/results?search_query=mr+beast"
+ENTER
+DELAY 2000
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=3tmd-ClpJxA"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=4TnQ99ESoKM"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=5CfNarCjSHM"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=6Dh-RL__uN4"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=7C2z4GqqS5E"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=8CvqmXJZ6Mw"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=9Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=10Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=11Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=12Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=13Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=14Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=15Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=16Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=17Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=18Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=19Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=20Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=21Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=22Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=23Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=24Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=25Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=26Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=27Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=28Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=29Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=30Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=31Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=32Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=33Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=34Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=35Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=36Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=37Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=38Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=39Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=40Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=41Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=42Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=43Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=44Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=45Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=46Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=47Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=48Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=49Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=50Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=51Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=52Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=53Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=54Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=55Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=56Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=57Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=58Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=59Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=60Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=61Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=62Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=63Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=64Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=65Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=66Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=67Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=68Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=69Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=70Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=71Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=72Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY 500
+STRING "https://www.youtube.com/watch?v=73Cwv5XZwvOQ"
+ENTER
+DELAY 500
+STRING "CTRL t"
+ENTER
+DELAY
