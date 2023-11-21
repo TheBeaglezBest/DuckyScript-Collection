@@ -1,2 +1,2 @@
-# DuckyScript-Chrome-Password-Logger
-(not my code just thought people should have this)
+# A collection of DuckyScript payloads
+If this is used for hacking it is not my fault this should only be used for education 😉
